@@ -1,6 +1,6 @@
 # Cyclone · web pública
 
-Build estático de la documentación pública de [Cyclone-NG](https://github.com/Xilerth/Cyclone-NG), listo para GitHub Pages.
+Build estático de la documentación pública de [Cyclone-lib](https://github.com/Xilerth/Cyclone-lib), listo para GitHub Pages.
 
 - `/` — web de documentación (`apps/docs`): catálogo de componentes, playground, tokens y creador de temas.
 - `/storybook/` — Storybook (`apps/storybook`).
