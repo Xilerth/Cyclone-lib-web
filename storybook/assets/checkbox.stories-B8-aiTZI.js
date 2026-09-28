@@ -1,4 +1,4 @@
-import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{a as t,n}from"./iframe-Bc-Z9Q2J.js";var r,i,a,o,s,c,l;function u(){return(u=e((()=>{n(),r={title:`Formularios/Checkbox`,component:`cy-checkbox`,args:{label:`Acepto los términos`,checked:!1,indeterminate:!1,disabled:!1,invalid:!1},render:e=>t`
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{a as t,n}from"./iframe-CdIDLIln.js";var r,i,a,o,s,c,l;function u(){return(u=e((()=>{n(),r={title:`Formularios/Checkbox`,component:`cy-checkbox`,args:{label:`Acepto los términos`,checked:!1,indeterminate:!1,disabled:!1,invalid:!1},render:e=>t`
     <cy-checkbox .checked=${e.checked} .indeterminate=${e.indeterminate} ?disabled=${e.disabled} ?invalid=${e.invalid}
       >${e.label}</cy-checkbox
     >

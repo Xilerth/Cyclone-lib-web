@@ -5,7 +5,7 @@ Build estático de la documentación pública de [Cyclone-lib](https://github.co
 - `/` — web de documentación (`apps/docs`): catálogo de componentes, playground, tokens y creador de temas.
 - `/storybook/` — Storybook (`apps/storybook`).
 
-Generado desde Cyclone-NG@7c18727. Todas las rutas son relativas, así que funciona en `https://<usuario>.github.io/Cyclone-lib-web/` sin configuración. `.nojekyll` evita que Pages procese los ficheros con Jekyll.
+Generado desde Cyclone-NG@eb3e7ce. Todas las rutas son relativas, así que funciona en `https://<usuario>.github.io/Cyclone-lib-web/` sin configuración. `.nojekyll` evita que Pages procese los ficheros con Jekyll.
 
 ## Publicar
 

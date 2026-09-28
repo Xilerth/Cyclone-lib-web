@@ -1,4 +1,4 @@
-import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{a as t,n}from"./iframe-Bc-Z9Q2J.js";import{n as r,t as i}from"./tokens-CD6Z9U6O.js";var a,o,s,c;function l(){return(l=e((()=>{n(),i(),a=r,o={title:`Tokens/Referencia`,tags:[`!autodocs`],args:{layer:`all`,filter:``},argTypes:{layer:{control:`inline-radio`,options:[`all`,`base`,`semantic`,`component`]}}},s={render:({layer:e,filter:n})=>{let r=a.filter(t=>(e===`all`||t.layer===e)&&t.name.includes(n));return t`
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{a as t,n}from"./iframe-CdIDLIln.js";import{n as r,t as i}from"./tokens-DzgD1seU.js";var a,o,s,c;function l(){return(l=e((()=>{n(),i(),a=r,o={title:`Tokens/Referencia`,tags:[`!autodocs`],args:{layer:`all`,filter:``},argTypes:{layer:{control:`inline-radio`,options:[`all`,`base`,`semantic`,`component`]}}},s={render:({layer:e,filter:n})=>{let r=a.filter(t=>(e===`all`||t.layer===e)&&t.name.includes(n));return t`
       <p>${r.length} tokens</p>
       <table style="border-collapse:collapse;width:100%;font-size:13px">
         <thead>

@@ -1,4 +1,4 @@
-import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{a as t,n}from"./iframe-Bc-Z9Q2J.js";import{n as r,t as i}from"./tokens-CD6Z9U6O.js";var a,o,s,c,l,u;function d(){return(d=e((()=>{n(),i(),a=r,o={title:`Tokens/Colores`,tags:[`!autodocs`],parameters:{layout:`padded`}},s=e=>t`
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{a as t,n}from"./iframe-CdIDLIln.js";import{n as r,t as i}from"./tokens-DzgD1seU.js";var a,o,s,c,l,u;function d(){return(d=e((()=>{n(),i(),a=r,o={title:`Tokens/Colores`,tags:[`!autodocs`],parameters:{layout:`padded`}},s=e=>t`
   <div style="display:grid;gap:4px;font-size:12px">
     <div
       style="height:44px;border-radius:var(--cy-radius-md);background:var(${e.cssVar});border:1px solid var(--cy-color-border-subtle)"
